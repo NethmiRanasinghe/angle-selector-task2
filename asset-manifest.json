@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/angle-selector-task2/static/css/main.d7816172.css",
+    "main.js": "/angle-selector-task2/static/js/main.37d069c1.js",
+    "static/js/453.41e50930.chunk.js": "/angle-selector-task2/static/js/453.41e50930.chunk.js",
+    "index.html": "/angle-selector-task2/index.html",
+    "main.d7816172.css.map": "/angle-selector-task2/static/css/main.d7816172.css.map",
+    "main.37d069c1.js.map": "/angle-selector-task2/static/js/main.37d069c1.js.map",
+    "453.41e50930.chunk.js.map": "/angle-selector-task2/static/js/453.41e50930.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7816172.css",
+    "static/js/main.37d069c1.js"
+  ]
+}
