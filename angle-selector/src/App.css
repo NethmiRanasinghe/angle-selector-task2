@@ -1,0 +1,20 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Space between the text input and slider */
+}
+
+.slider {
+  margin-left: 10px; /* Space between text input and slider */
+}
+
+.radio-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Space between each radio button */
+}
